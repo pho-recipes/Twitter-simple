@@ -48,8 +48,8 @@ class Tweet extends Foundation\AbstractObjectDP {
 }
 
 /*****************************************************
- * Timestamp: 1547537598
+ * Timestamp: 1555904811
  * Size (in bytes): 2240
- * Compilation Time: 83
- * a04d35f2c6c0fa650df14e5b16e59bc2
+ * Compilation Time: 88
+ * 70036433ab75b3e2f2d1f8aca0a378a4
  ******************************************************/
